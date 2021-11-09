@@ -1,4 +1,4 @@
-# Simple and Usefull Python Keylogger - Pylogger
+# Simple and Convenient Python Keylogger - Pylogger
 
 This spyware has two modes: 
 1) Email
